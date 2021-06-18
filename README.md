@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using [Tailwind CSS](https://tailwindcss.com/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using [Tailwind CSS](https://tailwindcss.com/)\
+
+Backend can be found [here](https://github.com/francamara/Fran-Challenge-Backend)
 
 ## Dependencies
 
